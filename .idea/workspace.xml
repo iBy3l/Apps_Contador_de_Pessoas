@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15413e51-6118-4867-8434-7cc5afc129bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sVFmFhrtBkOezlaBMk6WGLG1dJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Advanced" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15413e51-6118-4867-8434-7cc5afc129bc" name="Default Changelist" comment="" />
+      <created>1620950016916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620950016916</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="171" width="586" height="428" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1620963483183">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state x="411" y="171" width="586" height="428" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.27.1366.703@0.27.1366.703" timestamp="1620963483183" />
+    <state x="466" y="136" width="424" height="491" key="FileChooserDialogImpl" timestamp="1620963661670">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state x="466" y="136" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.703/1366.0.1360.768@0.27.1366.703" timestamp="1620950850286" />
+    <state x="466" y="136" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.703@0.27.1366.703" timestamp="1620963661670" />
+    <state x="193" y="27" width="1012" height="703" key="SettingsEditor" timestamp="1620963493246">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state x="193" y="27" width="1012" height="703" key="SettingsEditor/0.27.1366.703@0.27.1366.703" timestamp="1620963493246" />
+    <state x="168" y="97" width="1050" height="554" key="new project wizard" timestamp="1620963668761">
+      <screen x="0" y="27" width="1366" height="703" />
+    </state>
+    <state x="168" y="97" width="1050" height="554" key="new project wizard/0.27.1366.703@0.27.1366.703" timestamp="1620963668761" />
+  </component>
+</project>
